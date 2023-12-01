@@ -1,1 +1,1 @@
-
+print（"test new day"）
